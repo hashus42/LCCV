@@ -388,7 +388,6 @@ CMakeFiles/liblccv.dir/src/lccv.cpp.o: \
  /usr/include/libcamera/libcamera/base/signal.h \
  /usr/include/libcamera/libcamera/controls.h \
  /usr/include/libcamera/libcamera/geometry.h \
- /usr/include/libcamera/libcamera/base/compiler.h \
  /usr/include/libcamera/libcamera/orientation.h \
  /usr/include/libcamera/libcamera/request.h \
  /usr/include/libcamera/libcamera/fence.h \

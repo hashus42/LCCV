@@ -14,8 +14,8 @@ PiCamera::PiCamera(uint32_t id) {
 	options->camera = id;
     options->photo_width = 4056;
     options->photo_height = 3040;
-    options->video_width = 640;
-    options->video_height = 480;
+    options->video_width = 1280;
+    options->video_height = 720;
     options->framerate = 30;
     options->denoise = "auto";
     options->timeout = 1000;
